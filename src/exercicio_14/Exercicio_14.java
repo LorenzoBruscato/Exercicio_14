@@ -13,7 +13,7 @@ public class Exercicio_14 {
             JOptionPane.showMessageDialog(null, "Você tem: " + r + " anos");
         } else {
             if (ano1 > ano2) {
-                JOptionPane.showMessageDialog(null, "Invalido");
+                JOptionPane.showMessageDialog(null, "Data de nasecimento invalida");
             }
         }
     }
